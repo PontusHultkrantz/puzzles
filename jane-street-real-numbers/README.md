@@ -1,0 +1,2 @@
+# [Jane Street's Real Numbers](https://www.janestreet.com/real-numbers/)
+"Real Numbers is a weekly show that discovers math through the lens of real-world problems. In each episode, we pose a challenge of the week and encourage viewers to submit their answers. These problems come straight from real life, but their solutions can involve geometry, probability or other fields of math. In the following week’s episode, we will discuss approaches to the problem along with a presentation of a brand new challenge."
